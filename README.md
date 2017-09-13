@@ -1,7 +1,5 @@
 # hello-world
 
-Hello World!
+Good News!
 
-This is my first repository on GitHub!
-
-This is to celebrate that I found a room during my visit.
+My visa has been issued!
